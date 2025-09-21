@@ -1,0 +1,15 @@
+.nav {
+  background-color: brown;
+  padding: 7px;
+}
+
+.nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+.nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2em;
+}
