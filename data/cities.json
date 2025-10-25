@@ -1,0 +1,122 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "code": "PT",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "code": "ES",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Az Zaytun",
+      "country": "Egypt",
+      "code": "EG",
+      "date": "2025-09-27T19:34:11.213Z",
+      "position": {
+        "lat": "30.10734064042326",
+        "lng": "31.313728094100956"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Ḩalwan",
+      "country": "Egypt",
+      "code": "EG",
+      "date": "2025-10-01T19:45:15.000Z",
+      "position": {
+        "lat": "29.840941701906264",
+        "lng": "31.328544616699222"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Ţura",
+      "country": "Egypt",
+      "code": "EG",
+      "date": "2025-09-27T19:50:05.266Z",
+      "notes": "TESTTSTSTSTS",
+      "position": {
+        "lat": "29.929944673409228",
+        "lng": "31.305541992187504"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Suez",
+      "country": "Egypt",
+      "code": "EG",
+      "date": "2025-09-27T20:23:51.169Z",
+      "notes": "",
+      "position": {
+        "lat": "29.458731185355344",
+        "lng": "32.01416015625001"
+      },
+      "id": 73930389
+    },
+    {
+      "cityName": "Shubra al Khaymah",
+      "country": "Egypt",
+      "code": "EG",
+      "date": "2025-10-01T21:12:27.000Z",
+      "notes": "هروح شبرا واركب من هناك مطريه ومن مطريه تجنيد ومن التجنيد عرب ",
+      "position": {
+        "lat": "30.12452825780846",
+        "lng": "31.24325037002564"
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Ziemelu Rajons",
+      "country": "Latvia",
+      "code": "LV",
+      "date": "2025-09-27T21:14:16.971Z",
+      "notes": "",
+      "position": {
+        "lat": "56.523139564372194",
+        "lng": "27.333984375000004"
+      },
+      "id": 73930391
+    },
+    {
+      "cityName": "Skutustaðahreppur",
+      "country": "Iceland",
+      "code": "IS",
+      "date": "2025-09-27T22:13:38.311Z",
+      "notes": "",
+      "position": {
+        "lat": "65.31182925383723",
+        "lng": "-17.160644531250004"
+      },
+      "id": 73930392
+    },
+    {
+      "cityName": "Markaz al Waḩat ad Dakhilah",
+      "country": "Egypt",
+      "code": "EG",
+      "date": "2025-09-28T00:32:36.790Z",
+      "notes": "",
+      "position": {
+        "lat": "27.410785702577023",
+        "lng": "29.399414062500004"
+      },
+      "id": 73930393
+    }
+  ]
+}
